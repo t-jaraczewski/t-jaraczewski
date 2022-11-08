@@ -5,23 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-jaraczewski&label=Profile%20views&color=0e75b6&style=flat" alt="t-jaraczewski" /> </p>
 
-- 💻 I’m looking for a job as a **SOFTWARE TESTER / QA TESTER**
+- 💻 I’m looking for a job as a **SOFTWARE TESTER / QA TESTER**.
 
-- 🧰 I can use **Jira (Trello), Zephyr, Xray, TestLink (TestRail, qTest), Confluence, DevTools.**
+- 🧰 I can use **Jira (Trello), Zephyr, Xray, TestLink (TestRail, qTest), Confluence, DevTools**.
 
-- 👯 I’m looking to collaborate with **a team of experienced people.**
+- 👯 I’m looking to collaborate with **a team of experienced people**.
 
-- 🤝 I'm good at **finding valuable bugs.**
+- 🤝 I'm good at **finding valuable bugs**.
 
-- 📫 How to reach me [jaraczewskitomasz@gmail.com](jaraczewskitomasz@gmail.com)
+- 📫 You can reach me at [jaraczewskitomasz@gmail.com](jaraczewskitomasz@gmail.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/t-jaraczewski/portfolio](https://github.com/t-jaraczewski/portfolio)
 
-- 🌱 I’m mastering **HTML & CSS.**
+- 🌱 I’m mastering **HTML & CSS**.
 
-- 👨‍💻 I'm currently learning **Python.**
+- 👨‍💻 I'm currently learning **Python**.
 
-- ⚡ I love **mountaineering, traveling abroad & reading Stephen King's books.**
+- ⚡ I love **mountaineering, traveling abroad & reading Stephen King's books**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
