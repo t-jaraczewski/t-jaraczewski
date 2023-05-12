@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-jaraczewski&label=Profile%20views&color=0e75b6&style=flat" alt="t-jaraczewski" /> </p>
 
-- 💻 I’m looking for a job as a **SOFTWARE TESTER / QA TESTER**.
+- 💻 I’m looking for new challenges as a **SOFTWARE TESTER / QA SPECIALIST**.
 
 - 🧰 I can use **Jira (Trello), Zephyr, Xray, TestLink (TestRail, qTest), Confluence, DevTools**.
 
