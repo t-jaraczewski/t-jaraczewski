@@ -1,6 +1,6 @@
 [![SoftwareTesting](https://nikstech.com/img/test.jpg)](https://nikstech.com)
 <h1 align="center">Hi 👋, I'm Tomasz.</h1>
-<h3 align="center">A passionate freelance manual tester from Poznań, Poland.</h3>
+<h3 align="center">A passionate QA Specialist from Poznań, Poland.</h3>
 <img align="right" alt="Software Testing" width="400" src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-jaraczewski&label=Profile%20views&color=0e75b6&style=flat" alt="t-jaraczewski" /> </p>
