@@ -9,7 +9,7 @@
 
 - 🧰 I can use **Jira (Trello), Zephyr, Xray, TestLink (TestRail, qTest), Confluence, DevTools**.
 
-- 👯 I’m looking to collaborate with **a team of experienced people**.
+- 👯 I’m looking to collaborate with **a team of experienced people full of sense of humour**.
 
 - 🤝 I'm good at **finding valuable bugs**.
 
