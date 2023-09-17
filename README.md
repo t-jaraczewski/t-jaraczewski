@@ -19,7 +19,7 @@
 
 - 🌱 I’m mastering **HTML & CSS**.
 
-- 👨‍💻 I'm currently learning **Python**.
+- 👨‍💻 I'm currently broadening my knowledge of **digital accessibility**.
 
 - ⚡ I love **mountaineering, traveling abroad & reading Stephen King's books**.
 
